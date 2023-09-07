@@ -2,6 +2,7 @@
 
 Are you ready to rock? Or pop? You're in the right place! Start with some [[Week 00 – Back to school|back-to-school music]] or check out the [[History of Popular Music#Week-by-week schedule]] below.
 
+![](https://youtu.be/386SLjMGpQE?si=7E6rAXOx9-vPrTyp)
 ## Learning objectives
 Our goals for this class are to **have a lot of fun** and:
  - **Recognize** and list **major** styles, time periods, and individuals in the history of popular music

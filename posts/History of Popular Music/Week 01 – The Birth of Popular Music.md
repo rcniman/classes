@@ -18,11 +18,12 @@ Blah blah blah
 - “Song” by Musician (19??) – Notes
 
 ## Themes or stories of the week
-### Theme 1
+### What is popular music?
 A little introduction
 
 Here are somethings for you to read or watch:
 - Title (article/podcast/video) – Quick note
+![](https://youtu.be/386SLjMGpQE?si=7E6rAXOx9-vPrTyp)
 
 ## Homework (optional!)
 Your homework this week
