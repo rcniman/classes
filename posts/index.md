@@ -1,20 +1,10 @@
-## What is This? Help!
-MindStone is a free open-source alternative solution to [Obsidian Publish](https://obsidian.md/publish)
+## Welcome to Rising Roots!
 
-Here how it look like once published:
+Well, specifically my classes there. For 2023-4, I'm teaching two classes:
+- [History of Popular Music](History of Popular Music/History of Popular Music)
+- [Puzzlemasters](Puzzlemasters)
 
-![](/images/CleanShot%202022-04-20%20at%2008.34.17@2x.png)
 
-This website include a published version of default Obsidian Help vault, [[Start here]]
-
-**MindStone features:**
-
--  ✅ **Drop-in** support for (default) **Obsidian Vault** 
--  ✅ `[[Wiki Link]]` built-in support
--  ✅ **Folder-base** navigation side bar
--  ✅ Backlink support out of the box
--  ✅ Interactive Graph view 
--  ✅ **Easy to deploy** to Netlify, Vercel...
 
 ## Getting started
 ### I don't need this
@@ -55,3 +45,5 @@ This an early version of MindStone, which mean there are bugs and issues. Below 
 - Graphview does not load when clicking on side-bar or click node on graphview, browser reload will refresh it state
 - Graph view layout and interaction is still very rough. More UI/UX improvements are needed.
 - Transclusion is not working yet.
+
+[[]]
