@@ -17,7 +17,7 @@ This website include a published version of default Obsidian Help vault, [[Start
 -  ✅ **Easy to deploy** to Netlify, Vercel...
 
 ## Getting started
-### Run on your local machine
+### I don't need this
 
 Steps to run it on your local machine:
 1. Clone this [Github repo](https://github.com/TuanManhCao/digital-garden)
