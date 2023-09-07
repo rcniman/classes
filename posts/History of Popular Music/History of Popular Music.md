@@ -4,6 +4,8 @@ Are you ready to rock? Or pop? You're in the right place! Start with some [[Week
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/386SLjMGpQE?si=Y5WQJvYR2t_hhVXC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+![](https://twitter.com/obsdmd/status/1580548874246443010)
+
 
 ![](https://youtu.be/386SLjMGpQE?si=7E6rAXOx9-vPrTyp)
 ## Learning objectives
