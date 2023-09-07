@@ -2,6 +2,9 @@
 
 Are you ready to rock? Or pop? You're in the right place! Start with some [[Week 00 – Back to school|back-to-school music]] or check out the [[History of Popular Music#Week-by-week schedule]] below.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/386SLjMGpQE?si=Y5WQJvYR2t_hhVXC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 ![](https://youtu.be/386SLjMGpQE?si=7E6rAXOx9-vPrTyp)
 ## Learning objectives
 Our goals for this class are to **have a lot of fun** and:
