@@ -1,12 +1,14 @@
 ## Welcome to History of Popular Music!
 
-Are you ready to rock? Or pop? You're in the right place!
+Are you ready to rock? Or pop? You're in the right place! Start with some [[Week 00 – Back to school|back-to-school music]] or check out the [[History of Popular Music#Week-by-week schedule|week-by-week schedule]] below.
 
 ## Learning objectives
-- LO1
-- LO2
-- LO3
-## Course Description
+Our goals for this class are to **have a lot of fun** and:
+ - **Recognize** and list **major** styles, time periods, and individuals in the history of popular music
+ - **Relate** songs, musicians, and styles of music to social, political, and technological events
+ - When listing to a new song, **identify** its place in musical history and **interpret** its meaning and significance
+ - In group discussions and optional writing assignments, **analyze** lyrics, **categorize** songs into playlists of your own, and **evaluate** the importance of songs and musicians
+## Course description
 
 4th to 8th grade: We will explore the history of popular music, beginning with the invention of the radio and phonograph, and trace its development to today. We will explore a variety of sub-genres as we move through time and tie music to the political and social events of the time. 
 
@@ -26,45 +28,45 @@ Students should also have:
 
 ## Week-by-week schedule
 
-*Note: While we move through history from week to week, every week makes connections to the past and the present. Each week will feature at least one song from 2023 (or 24)!*
+*Note: While we move through history from week to week, every week makes connections to the past and the present. Each week will feature at least one song from THIS YEAR!*
 
 30s and 40s
-1. The Birth of Popular Music
-2. Crooners and Swing Bands
+- [[Week 01 – The Birth of Popular Music]]
+- [[Week 02 – Crooners and Swing Bands]]
 
 50s
-3. Folk Music
-4. Electric Blues and Country
-5. Doo-Wop, Rock and Roll, and Soul
+- [[Week 03 – Folk Music]]
+- [[Week 04 – Electric Blues and Country]]
+- [[Week 05 – Doo-Wop, Rock and Roll, and Soul]]
 
 60s
-6. Wall of Sound and Motown Records
-7. British Invasion
-8. Songs of Protest
+- [[Week 06 – Wall of Sound and Motown Records]]
+- [[Week 07 – British Invasion]]
+- [[Week 08 – Songs of Protest]]
 
 70s
-9. 1971 – The Year Music Changed Everything
-10. Rock and Punk
-11. Reggae
-12. Disco
+- [[Week 09 – 1971 – The Year Music Changed Everything]]
+- [[Week 10 – Rock and Punk]]
+- [[Week 11 – Reggae]]
+- [[Week 12 – Disco]]
 
 80s
-13. 1981 – Video Killed the Radio Star
-14. Electronic and New Wave
-15. Rap
-16. Hard Rock and Heavy Metal
-17. 80s Pop
+- [[Week 13 – 1981 – Video Killed the Radio Star]]
+- [[Week 14 – Electronic and New Wave]]
+- [[Week 15 – Rap]]
+- [[Week 16 – Hard Rock and Heavy Metal]]
+- [[Week 17 – 80s Pop]]
 
 90s
-18. 1991 – The Year Grunge Broke
-29. Alternative
-20. Divas
-21. R&B and Hip-Hop
+- [[Week 18 – 1991 – The Year Grunge Broke]]
+- [[Week 19 – Alternative]]
+- [[Week 20 – Divas]]
+- [[Week 21 – R&B and Hip-Hop]]
 
 00s
-22. Music in the Digital Age
-23. Children’s Music
+- [[Week 22 – Music in the Digital Age]]
+- [[Week 23 – Children’s Music]]
 
 10s and 20s
-24. International Pop
-25. Influencer Music
+- [[Week 24 – International Pop]]
+- [[Week 25 – Influencer Music]]
