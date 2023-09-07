@@ -1,6 +1,6 @@
 ## Welcome to History of Popular Music!
 
-Are you ready to rock? Or pop? You're in the right place! Start with some [[Week 00 – Back to school|back-to-school music]] or check out the [[History of Popular Music#Week-by-week schedule|week-by-week schedule]] below.
+Are you ready to rock? Or pop? You're in the right place! Start with some [[Week 00 – Back to school|back-to-school music]] or check out the [[History of Popular Music#Week-by-week schedule|schedule]] below.
 
 ## Learning objectives
 Our goals for this class are to **have a lot of fun** and:
